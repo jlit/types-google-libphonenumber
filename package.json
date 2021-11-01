@@ -1,0 +1,32 @@
+{
+    "name": "types-google-libphonenumber",
+    "version": "7.4.22",
+    "description": "TypeScript definitions for libphonenumber",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Jeff Littrell",
+            "url": "https://github.com/jlit",
+            "githubUsername": "jlit"
+        },
+        {
+            "name": "Leon Yu",
+            "url": "https://github.com/leonyu",
+            "githubUsername": "leonyu"
+        },
+        {
+            "name": "Roman Jurkov",
+            "url": "https://github.com/winfinit",
+            "githubUsername": "winfinit"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jlit/types-google-libphonenumber.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typeScriptVersion": "3.5"
+}
