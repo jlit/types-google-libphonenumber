@@ -1,5 +1,5 @@
 # Forked 
-Because on one approved https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56493
+Because no one approved https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56493
 
 # Installation
 > `npm install --save @types/google-libphonenumber`
