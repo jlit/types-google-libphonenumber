@@ -1,6 +1,6 @@
 {
     "name": "types-google-libphonenumber",
-    "version": "7.4.22",
+    "version": "7.4.23",
     "description": "TypeScript definitions for libphonenumber",
     "license": "MIT",
     "contributors": [
